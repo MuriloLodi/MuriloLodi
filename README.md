@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murilo-henrique-lodi-0040a1268)
 
 ![MuriloLodi GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloLodi&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloLodi)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
@@ -15,7 +16,7 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloLodi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 💻 Estudante de Sistemas para Internet na UTFPR, estou no início da minha carreira em programação. Tenho um grande interesse por tecnologia
 
