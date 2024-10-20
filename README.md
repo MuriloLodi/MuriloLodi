@@ -2,7 +2,7 @@
 
 [![Portfólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sujeitoprogramador.com)](murilolodi.github.io/PORTFOLIO/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilorkk/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murilo-henrique-lodi-0040a1268)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/murilo-henrique-lodi-0040a1268)
 
 ![MuriloLodi GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloLodi&show_icons=true&theme=dracula)
 
