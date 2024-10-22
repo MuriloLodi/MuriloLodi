@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Murilo Henrique Lodi 👋
 
-[![Portfólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sujeitoprogramador.com)](https://murilolodi.github.io/PORTFOLIO/)
+[![Portfólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sujeitoprogramador.com)](https://murilolodi.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilorkk/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/murilo-henrique-lodi-0040a1268)
 
@@ -22,4 +22,4 @@
 ## Últimos Projetos:
 
 - [Em Desenvolvimento : Site de Vendas de um servidor de MTA(HTML, CSS, JS)](https://murilolodi.github.io/Site-MTA/)<br/>
-- [Em Desenvolvimento : Projeto Cafeteria Site Completo (HTML, CSS, TailwindCSS, JS)](https://murilolodi.github.io/Projeto-Cafeteria/)<br/>
+- [Em Desenvolvimento : Projeto Cafeteria Site Completo (HTML, CSS, TailwindCSS, JS)](https://lodiscafeteria.netlify.app/)<br/>
