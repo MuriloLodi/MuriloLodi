@@ -21,5 +21,5 @@
 
 ## Últimos Projetos:
 
-- [Em Desenvolvimento : Site de Vendas de um servidor de MTA](https://murilolodi.github.io/Site-MTA/)<br/>
-- [Em Desenvolvimento : Projeto Cafeteria Site Completo (HTML, CSS, TailwindCSS, JS](https://murilolodi.github.io/Projeto-Cafeteria/)<br/>
+- [Em Desenvolvimento : Site de Vendas de um servidor de MTA(HTML, CSS, JS)](https://murilolodi.github.io/Site-MTA/)<br/>
+- [Em Desenvolvimento : Projeto Cafeteria Site Completo (HTML, CSS, TailwindCSS, JS)](https://murilolodi.github.io/Projeto-Cafeteria/)<br/>
