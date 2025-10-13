@@ -1,12 +1,23 @@
 ### Olá! Eu sou o Murilo Henrique Lodi 👋
 
-[![Portfólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sujeitoprogramador.com)](https://murilolodi.github.io/PORTFOLIO/)
+[![Portfólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://murilolodi.github.io/PORTFOLIO/)](https://murilolodi.github.io/PORTFOLIO/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilorkk/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/murilo-henrique-lodi-0040a1268)
 
-![MuriloLodi GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloLodi&show_icons=true&theme=dracula)
+## 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilolodi&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilolodi&layout=compact&theme=radical"/>
+</div>
 
-## Tecnologias que uso no meu dia
+## 🚀 Sobre mim  
+📈 Atualmente estudando: **Full Stack — JavaScript | React | Node | Java | MySQL**  
+🏆 Apaixonado por tecnologia, por transformar ideias em soluções práticas e por encontrar respostas criativas para qualquer desafio.  
+💻 Em constante evolução, buscando me aprimorar como desenvolvedor e criar soluções cada vez mais impactantes.  
+🚀 Empreendendo, programando e aprendendo algo novo a cada dia.  
+💡 Meu propósito é usar a tecnologia para simplificar a vida das pessoas por meio do código.  
+
+## 🛠️ Tecnologias que uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,22 +27,19 @@
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="tailwind_CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img align="center" alt="gitgub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  
-  
 </div><br/>
 
 
-💻 Estudante de Sistemas para Internet na UTFPR, estou no início da minha carreira em programação. Tenho um grande interesse por tecnologia
-
-## Últimos Projetos:
-
-- [Site Finalizado : Site de Vendas de um servidor de MTA(HTML, CSS, JS)](https://murilolodi.github.io/Site-MTA/)<br/>
-- [Site Finalizado : Site do Trabalho de Web Front End 2(HTML, CSS, BootStrap)](https://murilolodi.github.io/trabalho-front2/)<br/>
-- [Site Finalizado : Projeto Cafeteria Site Completo (HTML, CSS, TailwindCSS, JS)](https://lodiscafeteria.netlify.app/)<br/>
+## 💡 Projetos em Destaque  
+| Projeto | Descrição | Tecnologias | Link |
+|---------|-----------|--------------|------|
+| **Site MTA** | Site de vendas para um servidor de MTA, com design moderno e interativo | HTML, CSS, JavaScript | [Acesse aqui](https://murilolodi.github.io/Site-MTA/) |
+| **Lodz Network** | Projeto feito para a empresa Lodz Network | PHP, MySQL, Bootstrap, CSS, HTML | [Acesse aqui](https://github.com/MuriloLodi/lodz-mapz) |
+| **Projeto Cafeteria** | Site completo de uma cafeteria fictícia, com visual profissional e responsivo | HTML, CSS, TailwindCSS, JavaScript | [Acesse aqui](https://lodiscafeteria.netlify.app/) |
