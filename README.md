@@ -11,10 +11,9 @@
 </div>
 
 ## 🚀 Sobre mim  
-📈 Atualmente estudando: **Full Stack — JavaScript | React | Node | Java | MySQL**  
+📈 **Full Stack — JavaScript | React | Node | Java | MySQL**  
 🏆 Apaixonado por tecnologia, por transformar ideias em soluções práticas e por encontrar respostas criativas para qualquer desafio.  
 💻 Em constante evolução, buscando me aprimorar como desenvolvedor e criar soluções cada vez mais impactantes.  
-🚀 Empreendendo, programando e aprendendo algo novo a cada dia.  
 💡 Meu propósito é usar a tecnologia para simplificar a vida das pessoas por meio do código.  
 
 ## 🛠️ Tecnologias que uso no meu dia
