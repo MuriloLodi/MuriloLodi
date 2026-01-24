@@ -39,6 +39,6 @@
 ## 💡 Projetos em Destaque  
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|--------------|------|
-| **Site MTA** | Site de vendas para um servidor de MTA, com design moderno e interativo | HTML, CSS, JavaScript | [Acesse aqui](https://murilolodi.github.io/Site-MTA/) |
+| **Caxio Flow** | Site institucional e comercial do Caxio Flow, plataforma SaaS para gestão integrada de finanças, agenda e operações comerciais, com interface moderna, navegação intuitiva e foco em produtividade. | PHP, CSS, BootStrap, JavaScript, MySQL | [Acesse aqui](https://lodfinancas.free.nf) |
 | **Lodz Network** | Projeto feito para a empresa Lodz Network | PHP, MySQL, Bootstrap, CSS, HTML | [Acesse aqui](https://github.com/MuriloLodi/lodz-mapz) |
 | **Projeto Cafeteria** | Site completo de uma cafeteria fictícia, com visual profissional e responsivo | HTML, CSS, TailwindCSS, JavaScript | [Acesse aqui](https://lodiscafeteria.netlify.app/) |
