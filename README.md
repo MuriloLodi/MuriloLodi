@@ -1,44 +1,96 @@
-### Olá! Eu sou o Murilo Henrique Lodi 👋
+# Olá! Eu sou o Murilo Henrique Lodi 👋
 
-[![Portfólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://murilolodi.github.io/PORTFOLIO/)](https://murilolodi.github.io/PORTFOLIO/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilorkk/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/murilo-henrique-lodi-0040a1268)
+<p align="center">
+  <a href="https://murilolodi.github.io/PORTFOLIO/">
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-000?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/murilo-henrique-lodi-0040a1268">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/murilorkk/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
 
-## 📈 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilolodi&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilolodi&show_icons=true&theme=radical"/>
-</div>
+---
 
-## 🚀 Sobre mim  
-📈 **Full Stack — JavaScript | React | Node | Java | MySQL**  
-🏆 Apaixonado por tecnologia, por transformar ideias em soluções práticas e por encontrar respostas criativas para qualquer desafio.  
-💻 Em constante evolução, buscando me aprimorar como desenvolvedor e criar soluções cada vez mais impactantes.  
-💡 Meu propósito é usar a tecnologia para simplificar a vida das pessoas por meio do código.  
+# 🚀 Sobre mim
 
-## 🛠️ Tecnologias que uso no meu dia
+💻 Desenvolvedor **Full Stack**
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="tailwind_CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</div><br/>
+Atualmente trabalho com aplicações web utilizando JavaScript, React, Node.js, Java, PHP e bancos de dados relacionais.
 
+Tenho interesse em desenvolvimento de software, arquitetura de sistemas e criação de soluções que resolvam problemas reais através da tecnologia.
 
-## 💡 Projetos em Destaque  
-| Projeto | Descrição | Tecnologias | Link |
-|---------|-----------|--------------|------|
-| **Caxio Flow** | Site institucional e comercial do Caxio Flow, plataforma SaaS para gestão integrada de finanças, agenda e operações comerciais, com interface moderna, navegação intuitiva e foco em produtividade. | PHP, CSS, BootStrap, JavaScript, MySQL | [Acesse aqui](https://lodfinancas.free.nf) |
-| **Lodz Network** | Projeto feito para a empresa Lodz Network | PHP, MySQL, Bootstrap, CSS, HTML | [Acesse aqui](https://github.com/MuriloLodi/lodz-mapz) |
-| **Projeto Cafeteria** | Site completo de uma cafeteria fictícia, com visual profissional e responsivo | HTML, CSS, TailwindCSS, JavaScript | [Acesse aqui](https://lodiscafeteria.netlify.app/) |
+* 🌱 Aprendendo novas tecnologias diariamente
+* 🚀 Sempre buscando melhorar código, performance e experiência do usuário
+* 📚 Estudando desenvolvimento Full Stack e boas práticas
+* 🎯 Objetivo: construir aplicações escaláveis e de alta qualidade
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=murilolodi&show_icons=true&theme=radical&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilolodi&layout=compact&theme=radical"/>
+
+</p>
+
+### 📈 GitHub Stats Extended
+
+> Após configurar o **github-stats-extended**, substitua pelos links gerados pelo GitHub Actions:
+
+<p align="center">
+<img width="98%" src="https://raw.githubusercontent.com/murilolodi/github-stats/master/generated/overview.svg">
+<img width="98%" src="https://raw.githubusercontent.com/murilolodi/github-stats/master/generated/languages.svg">
+</p>
+
+---
+
+# 🛠 Tecnologias
+
+### Front-end
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+
+### Back-end
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
+
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu)
+
+---
+
+# 💼 Projetos
+
+| Projeto                 | Descrição                                                              | Stack                                |
+| ----------------------- | ---------------------------------------------------------------------- | ------------------------------------ |
+| 🚀 **Caxio Flow**       | Plataforma SaaS para gestão financeira, agenda e operações comerciais. | PHP • JavaScript • Bootstrap • MySQL |
+| 🌐 **Lodz Network**     | Plataforma desenvolvida para a empresa Lodz Network.                   | PHP • MySQL • Bootstrap              |
+| ☕ **Projeto Cafeteria** | Landing page moderna e responsiva para cafeteria.                      | HTML • Tailwind • JavaScript         |
+
+---
+
+# 📫 Contato
+
+* 🌎 Portfólio: https://murilolodi.github.io/PORTFOLIO/
+* 💼 LinkedIn: https://linkedin.com/in/murilo-henrique-lodi-0040a1268
+* 📷 Instagram: https://instagram.com/murilorkk
