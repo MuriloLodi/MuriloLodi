@@ -51,7 +51,7 @@ Tenho interesse em desenvolvimento de software, arquitetura de sistemas e criaç
 
 <p align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MuriloLodi&langs_count=2&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=MuriloLodi&langs_count=2&theme=swift)
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=MuriloLodi&langs_count=2&theme=swift"/>
 
 </p>
 
